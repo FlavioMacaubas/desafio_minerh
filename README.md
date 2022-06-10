@@ -2,8 +2,6 @@
 
  > Candidato: Flávio Macaúbas Torres Filho
  
- > **OBSERVAÇÃO: REPRODUZIR O CÓDIGO NO DATABRICKS PERMITE UMA VISUALIZAÇÃO MELHOR DOS DATAFRAMES, A FUNÇÃO display(...) NÃO FORMATA ADEQUADAMENTE NO GIT**
-
 ### Dados originais
 
 * Disponíve aqui: [Dados](https://github.com/FlavioMacaubas/desafio_minerh/blob/master/base_mensalizada_de_funcionarios.csv)
