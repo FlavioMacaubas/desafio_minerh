@@ -4,7 +4,7 @@
  
 ### Dados originais
 
-* Disponíve aqui: [Dados](https://github.com/FlavioMacaubas/desafio_minerh/blob/master/base_mensalizada_de_funcionarios.csv)
+* Disponível aqui: [Dados](https://github.com/FlavioMacaubas/desafio_minerh/blob/master/base_mensalizada_de_funcionarios.csv)
 
 ### Dados após ajustes
 
