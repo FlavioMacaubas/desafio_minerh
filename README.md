@@ -1,6 +1,6 @@
 # desafio_minerh
 
-Case t├®cnico de Engenharia de Dados com ETL, an├ílise explorat├│ria e recomenda├º├Áes.
+Case técnico com foco em engenharia e análise de dados.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Data%20Engineering%20%2B%20IA-0A66C2?style=flat)
