@@ -1,19 +1,75 @@
 # desafio_minerh
 
-Case técnico para vaga de **Engenharia de Dados**.
+Case t├®cnico de Engenharia de Dados com ETL, an├ílise explorat├│ria e recomenda├º├Áes.
 
-## Contexto
-Este projeto reúne análise exploratória e estrutura de tratamento de dados para responder perguntas de negócio e propor melhorias de processo.
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-Data%20Engineering%20%2B%20IA-0A66C2?style=flat)
 
-## O que você encontra aqui
-- Notebook de exploração e limpeza
-- Transformações de dados orientadas a análise
-- Interpretação dos resultados com foco em decisão
+---
 
-## Stack
-Python · Jupyter Notebook · Pandas · Visualização
+## Sobre o projeto
 
-## Próximos passos recomendados
-- Quebrar notebook em pipeline reprodutível
-- Adicionar testes de qualidade de dados
-- Publicar versão com execução automatizada
+Este repositório faz parte do meu portfólio em **Data Engineering + IA aplicada**, com foco em clareza técnica, reprodutibilidade e comunicação de resultado.
+
+---
+
+## O que já está implementado
+
+| Área | Descrição |
+|------|-----------|
+| **Escopo** | Projeto técnico com foco em dados e aplicação prática |
+| **Entrega** | Estrutura organizada para estudo, evolução e demonstração |
+| **Documentação** | README padronizado para leitura rápida de recrutadores e pares técnicos |
+
+---
+
+## Roadmap (visão de evolução)
+
+- Fortalecer reprodutibilidade (scripts e instruções de execução)
+- Melhorar cobertura de documentação por módulo
+- Adicionar métricas/resultados quando aplicável
+
+---
+
+## Stack atual
+
+- Linguagem principal: **Jupyter Notebook**
+- Tópicos: analytics, data-engineering, etl, python
+
+---
+
+## Como rodar localmente
+
+### Pré-requisitos
+
+- Git
+- Ambiente compatível com a stack do projeto
+
+### Passos
+
+`ash
+git clone https://github.com/FlavioMacaubas/desafio_minerh.git
+cd desafio_minerh
+
+# Crie e ative seu ambiente (se aplicável)
+# Instale dependências (se houver)
+# Execute notebooks/scripts conforme estrutura do projeto
+`
+
+---
+
+## Estrutura do repositório
+
+`	ext
+desafio_minerh/
+├── notebooks/   # quando aplicável
+├── src/         # quando aplicável
+├── data/        # quando aplicável
+└── README.md
+`
+
+---
+
+## Licença
+
+Este projeto é disponibilizado para fins de **portfólio** e aprendizado. Ajuste a licença conforme sua necessidade.
